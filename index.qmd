@@ -1,0 +1,69 @@
+---
+title: ""
+page-layout: full
+---
+
+::: {.hero}
+<div class="hero-name">Jeyaseelan Krishna Udiyappan</div>
+
+<div class="hero-role">PhD Researcher in Chemical Engineering</div>
+
+<div class="hero-tags">Electrochemical Systems · Transport Phenomena · Complex Fluids · Multiphysics Modeling</div>
+
+<div class="hero-text">
+I develop experiments and physics-based models to understand transport in complex electrochemical systems. My work combines electrochemistry, suspension rheology, continuum mechanics, numerical modeling, and custom reactor development, with growing interests in particle-scale suspension dynamics and multiscale computation.
+</div>
+
+[Research](research.qmd){.btn .btn-primary}
+[Projects](projects.qmd){.btn .btn-outline-secondary}
+[CV](cv.qmd){.btn .btn-outline-secondary}
+:::
+
+<div class="research-flow">
+<strong>Research direction:</strong>
+Particle / microstructure physics → local flow and transport → electrochemical response → reactor-scale performance
+</div>
+
+## Current Research
+
+<div class="card-grid">
+
+<div class="portfolio-card">
+<h3>Electrochemical Suspension Electrodes</h3>
+<p>Understanding how suspension rheology, mass transfer, electronic transport, and electrochemical kinetics interact under flow.</p>
+<a href="research.qmd#electrochemical-suspension-electrodes">Explore research →</a>
+</div>
+
+<div class="portfolio-card">
+<h3>Stress-Limited Rotating Flows</h3>
+<p>Mechanistic modeling of Newtonian and yield-stress rotating flows, including confinement, similarity, yielded regions, and transport implications.</p>
+<a href="research.qmd#stress-limited-hydrodynamics">Explore research →</a>
+</div>
+
+<div class="portfolio-card">
+<h3>Particle Suspension Dynamics</h3>
+<p>Developing particle-scale modeling capabilities for suspension microhydrodynamics, microstructure, and many-body interactions.</p>
+<a href="research.qmd#particle-suspension-dynamics">Explore research →</a>
+</div>
+
+</div>
+
+## What I Bring Together
+
+<div class="metric-strip">
+<div class="metric"><strong>Experiment</strong>Electrochemistry · Rheometry · Mass transfer</div>
+<div class="metric"><strong>Physics</strong>Transport · Rheology · Electrochemical kinetics</div>
+<div class="metric"><strong>Computation</strong>Python · MATLAB · COMSOL · ANSYS Fluent</div>
+<div class="metric"><strong>Engineering</strong>SolidWorks · Resin printing · CNC · Graphite machining</div>
+</div>
+
+## Engineering Research, End to End
+
+My work often starts before the experiment exists. I design and fabricate custom electrochemical hardware, establish controlled measurements, develop or adapt the governing physical model, and compare predictions against experimental or finite-element results.
+
+<div class="project-placeholder">
+Replace this box with a future composite image:<br>
+CAD → fabricated cell → experiment → simulation / model
+</div>
+
+[See selected projects](projects.qmd) · [View conference contributions](publications.qmd)

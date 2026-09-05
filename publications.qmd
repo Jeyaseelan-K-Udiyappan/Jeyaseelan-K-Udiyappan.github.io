@@ -1,0 +1,47 @@
+---
+title: "Publications & Presentations"
+---
+
+## Conference Contributions
+
+<div class="pub-item">
+<div class="pub-type">Oral presentation</div>
+
+**J. K. Udiyappan**, M. V. Majji.  
+“Ionic Mass Transport in Slurry Electrodes.”  
+*248th Meeting of The Electrochemical Society*, 2025.  
+**Presented by J. K. Udiyappan.**
+</div>
+
+<div class="pub-item">
+<div class="pub-type">Conference abstract</div>
+
+**J. K. Udiyappan**, M. V. Majji.  
+“Performance Tradeoffs in Redox Flow Batteries with Slurry Electrodes.”  
+*Electrochemical Society Meeting Abstracts*, **248**, 2754–2754 (2025).  
+Presented by M. V. Majji.
+</div>
+
+<div class="pub-item">
+<div class="pub-type">Conference contribution</div>
+
+**J. K. Udiyappan**, M. V. Majji.  
+“Charge Transport Trade-offs in Colloidal Suspension Electrodes under Flow.”  
+*96th Annual Meeting of the Society of Rheology*, Santa Fe, New Mexico (2025).  
+Presented by M. V. Majji.
+</div>
+
+## Research Communication
+
+**3-Minute Thesis (3MT)**  
+“Designing Slurry Electrodes for Large-Scale Electrochemical Reactors.”
+
+## Journal Publications
+
+Journal manuscripts from ongoing PhD research will be added here as they are submitted / published.
+
+[Google Scholar](https://scholar.google.com/citations?user=wmFH4TkAAAAJ){.btn .btn-outline-secondary}
+
+::: {.small-note}
+Before publishing this site, verify that the Google Scholar profile linked above is your own profile. It was populated from the citation link supplied during resume development.
+:::

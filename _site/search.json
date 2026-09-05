@@ -1,0 +1,198 @@
+[
+  {
+    "objectID": "research.html#title-research",
+    "href": "research.html#title-research",
+    "title": "Research",
+    "section": "title: “Research”",
+    "text": "title: “Research”\nMy research sits at the intersection of electrochemical engineering, transport phenomena, complex-fluid mechanics, and physics-based computation. The projects below are related by a common question: how do local material and transport processes determine device-scale performance?"
+  },
+  {
+    "objectID": "research.html#electrochemical-suspension-electrodes",
+    "href": "research.html#electrochemical-suspension-electrodes",
+    "title": "Research",
+    "section": "Electrochemical Suspension Electrodes",
+    "text": "Electrochemical Suspension Electrodes\nFlowable suspension electrodes combine electrochemical reactions with a dynamically evolving particulate phase. Their performance reflects coupled contributions from:\n[ + + + . ]\nMy work uses controlled electrochemical and rheological experiments to isolate these effects and develop relationships that can ultimately inform reactor design.\n\nCurrent themes\n\nShear-dependent mass transfer in suspensions\nFumed-silica and carbon-black model systems\nCouette, rotating-disk, and flow-cell measurements\nHerschel–Bulkley rheology and yield-stress behavior\nPorous-electrode and continuum reactor modeling\nFlow-performance and pumping-performance tradeoffs\n\n\nAdd an ECS figure here: Couette / flow-cell schematic + representative transport plot\n\n\n\nResearch objective\nA central goal is to move from local measurements such as\n[ k_m(), _y,K,n ]\ntoward spatially resolved predictions of electrochemical reactor behavior."
+  },
+  {
+    "objectID": "research.html#stress-limited-hydrodynamics",
+    "href": "research.html#stress-limited-hydrodynamics",
+    "title": "Research",
+    "section": "Stress-Limited Hydrodynamics",
+    "text": "Stress-Limited Hydrodynamics\nClassical rotating-disk transport relies on well-defined Newtonian hydrodynamics. Yield-stress fluids introduce an additional difficulty: part of the fluid may remain unyielded, so the active flow domain can itself become part of the solution.\nMy modeling work investigates:\n\nvon Kármán and two-disk rotating-flow frameworks\nBingham and Herschel–Bulkley constitutive behavior\nnonlinear boundary-value problems and continuation\nfinite confinement and breakdown of global similarity\nyielded / unyielded regions\ncomparison between reduced models and COMSOL\nimplications for mass-transfer boundary layers\n\n\nCurrent physical picture: In confined yield-stress flow, the yielded-layer thickness can emerge as a local hydrodynamic length scale rather than the full geometric gap.\n\n\nAdd a Society of Rheology figure here: rotating disk + yield surface + COMSOL / 1D profile comparison"
+  },
+  {
+    "objectID": "research.html#particle-suspension-dynamics",
+    "href": "research.html#particle-suspension-dynamics",
+    "title": "Research",
+    "section": "Particle Suspension Dynamics",
+    "text": "Particle Suspension Dynamics\nI am beginning a separate computational research direction involving Stokesian Dynamics and particle-suspension modeling under the guidance of Dr. Madhu V. Majji.\nThe immediate purpose is to build depth in particle-scale suspension mechanics rather than force the method into the electrochemical suspension-electrode framework.\nTopics of interest include:\n\nlow-Reynolds-number particle hydrodynamics\nmany-body hydrodynamic interactions\nBrownian and non-Brownian suspension behavior\nparticle microstructure under flow\npair and structural statistics\nsuspension stress and rheological response\nlinks between particle-scale dynamics and continuum descriptions\n\nAs this project develops, validated results and public benchmark examples will be added here."
+  },
+  {
+    "objectID": "research.html#longer-term-direction",
+    "href": "research.html#longer-term-direction",
+    "title": "Research",
+    "section": "Longer-Term Direction",
+    "text": "Longer-Term Direction\nThe long-term technical theme connecting my work is multiscale physical modeling with experimental validation:\n[ . ]\nData-driven and surrogate methods may later be incorporated where they improve parameter inference, computational speed, uncertainty quantification, or experimental design."
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "This page emphasizes what I have built or implemented, complementing the scientific questions described on the Research page."
+  },
+  {
+    "objectID": "projects.html#custom-electrochemical-flow-cell",
+    "href": "projects.html#custom-electrochemical-flow-cell",
+    "title": "Projects",
+    "section": "Custom Electrochemical Flow Cell",
+    "text": "Custom Electrochemical Flow Cell\nI developed an in-house flow-cell platform using a design-to-test workflow:\nSolidWorks CAD → resin additive manufacturing → Nomad CNC / graphite machining → assembly → electrochemical testing\nThe platform supports controlled studies of suspension-electrode transport and electrochemical performance.\n\nADD PHOTO SET: 1. SolidWorks rendering 2. printed / machined components 3. assembled flow cell 4. operating experimental setup\n\nSkills demonstrated: CAD, rapid prototyping, graphite machining, experimental design, electrochemical testing, troubleshooting."
+  },
+  {
+    "objectID": "projects.html#taylorcouette-electrochemical-platform",
+    "href": "projects.html#taylorcouette-electrochemical-platform",
+    "title": "Projects",
+    "section": "Taylor–Couette Electrochemical Platform",
+    "text": "Taylor–Couette Electrochemical Platform\nDesigned a customized Taylor–Couette configuration for controlled suspension-flow and transport measurements, with emphasis on separating hydrodynamic and electrochemical effects.\n\nADD: Taylor–Couette CAD + photograph + one representative mass-transfer result\n\nSkills demonstrated: rheology, suspension mechanics, experimental hardware design, electrochemistry, transport analysis."
+  },
+  {
+    "objectID": "projects.html#yield-stress-rotating-flow-modeling",
+    "href": "projects.html#yield-stress-rotating-flow-modeling",
+    "title": "Projects",
+    "section": "Yield-Stress Rotating-Flow Modeling",
+    "text": "Yield-Stress Rotating-Flow Modeling\nDeveloped reduced-order numerical models and finite-element simulations for rotating Newtonian, Bingham, and Herschel–Bulkley flows.\nKey computational elements include:\n\nnonlinear boundary-value solvers\ncontinuation methods\nsimilarity and scaling analysis\nfinite-geometry COMSOL models\nyielded / unyielded region analysis\nsystematic comparison with prior literature\n\n\nADD: one clean Bn–Re regime map or 1D vs COMSOL comparison"
+  },
+  {
+    "objectID": "projects.html#coupled-fluidparticle-heat-transfer",
+    "href": "projects.html#coupled-fluidparticle-heat-transfer",
+    "title": "Projects",
+    "section": "Coupled Fluid–Particle Heat Transfer",
+    "text": "Coupled Fluid–Particle Heat Transfer\nBuilt an ANSYS Fluent + Discrete Phase Method model for heat and momentum transfer in a serpentine microtube. The model examined single-phase and dilute particle-laden cases, including two-way momentum and energy coupling.\n\nADD: serpentine geometry + velocity / temperature or particle-track contour\n\nTopics: CFD, DPM, laminar/turbulent transport, particle trajectories, heat transfer, mesh comparison."
+  },
+  {
+    "objectID": "projects.html#corrosion-under-insulation-modeling",
+    "href": "projects.html#corrosion-under-insulation-modeling",
+    "title": "Projects",
+    "section": "Corrosion Under Insulation Modeling",
+    "text": "Corrosion Under Insulation Modeling\nDeveloped COMSOL finite-element models for oxygen transport and corrosion in thin electrolyte films relevant to corrosion-under-insulation environments.\nTopics: diffusion, electrochemical transport, multiphysics coupling, thin-film modeling."
+  },
+  {
+    "objectID": "projects.html#research-infrastructure",
+    "href": "projects.html#research-infrastructure",
+    "title": "Projects",
+    "section": "Research Infrastructure",
+    "text": "Research Infrastructure\nAs the first PhD student in a newly established research group, I have also contributed to building the research environment itself:\n\nequipment procurement and commissioning\nlaboratory safety and operating procedures\ninstrument maintenance and vendor support\ncustom experimental setup development\nundergraduate research mentoring\n\nThis operational experience is an important part of how I approach research engineering: a model or experiment is useful only if it can be implemented, validated, and maintained."
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "CV / Resume",
+    "section": "",
+    "text": "My current internship-focused resume emphasizes experimental-computational chemical engineering, electrochemical systems, transport phenomena, complex fluids, and multiphysics modeling.\nDownload Resume (PDF)"
+  },
+  {
+    "objectID": "cv.html#resume",
+    "href": "cv.html#resume",
+    "title": "CV / Resume",
+    "section": "",
+    "text": "My current internship-focused resume emphasizes experimental-computational chemical engineering, electrochemical systems, transport phenomena, complex fluids, and multiphysics modeling.\nDownload Resume (PDF)"
+  },
+  {
+    "objectID": "cv.html#targeted-versions",
+    "href": "cv.html#targeted-versions",
+    "title": "CV / Resume",
+    "section": "Targeted Versions",
+    "text": "Targeted Versions\nFor applications, I maintain targeted versions emphasizing:\n\nElectrochemical / Battery Modeling\nMultiphysics / Process Modeling\nComplex Fluids / Particle Modeling\n\nThe public website should normally expose only the master resume. Tailored application versions can be sent directly for specific positions."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "I am a PhD researcher in Chemical Engineering at Ohio University working with Dr. Madhu V. Majji.\nMy technical interests are centered on problems where transport, material microstructure, and device performance are strongly coupled. I enjoy working across the traditional boundary between experiment and computation: building experimental systems, developing physical models, and using each to interrogate the other."
+  },
+  {
+    "objectID": "about.html#background",
+    "href": "about.html#background",
+    "title": "About",
+    "section": "Background",
+    "text": "Background\nBefore graduate school, I studied Chemical and Electrochemical Engineering at the CSIR–Central Electrochemical Research Institute (CECRI) in India. My earlier research included aqueous zinc-ion batteries, lithium- and sodium-ion cathodes, supercapacitors, and electrochemical materials characterization.\nMy PhD work has increasingly shifted toward:\n\nelectrochemical reactor engineering\nsuspension rheology and complex fluids\nmass and charge transport\nmechanistic / continuum modeling\nmultiphysics simulation\nparticle-scale suspension modeling"
+  },
+  {
+    "objectID": "about.html#research-engineering",
+    "href": "about.html#research-engineering",
+    "title": "About",
+    "section": "Research Engineering",
+    "text": "Research Engineering\nIn addition to modeling and experiments, I have hands-on experience designing and fabricating custom research hardware using SolidWorks, resin 3D printing, CNC machining, and graphite milling.\nAs the first PhD student in a newly formed research group, I have also helped establish laboratory capabilities through procurement, safety, commissioning, maintenance, vendor coordination, and student mentoring."
+  },
+  {
+    "objectID": "about.html#outreach",
+    "href": "about.html#outreach",
+    "title": "About",
+    "section": "Outreach",
+    "text": "Outreach\nI volunteer in middle-school K–12 science-fair activities and value communicating technical ideas clearly across different levels of expertise."
+  },
+  {
+    "objectID": "about.html#contact",
+    "href": "about.html#contact",
+    "title": "About",
+    "section": "Contact",
+    "text": "Contact\nEmail: jk993924@ohio.edu\nLocation: Athens, Ohio"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Jeyaseelan Krishna Udiyappan",
+    "section": "",
+    "text": "Jeyaseelan Krishna Udiyappan\n\n\nPhD Researcher in Chemical Engineering\n\n\nElectrochemical Systems · Transport Phenomena · Complex Fluids · Multiphysics Modeling\n\n\nI develop experiments and physics-based models to understand transport in complex electrochemical systems. My work combines electrochemistry, suspension rheology, continuum mechanics, numerical modeling, and custom reactor development, with growing interests in particle-scale suspension dynamics and multiscale computation.\n\nResearch Projects CV"
+  },
+  {
+    "objectID": "index.html#current-research",
+    "href": "index.html#current-research",
+    "title": "Jeyaseelan Krishna Udiyappan",
+    "section": "Current Research",
+    "text": "Current Research\n\n\n\nElectrochemical Suspension Electrodes\n\n\nUnderstanding how suspension rheology, mass transfer, electronic transport, and electrochemical kinetics interact under flow.\n\nExplore research →\n\n\n\nStress-Limited Rotating Flows\n\n\nMechanistic modeling of Newtonian and yield-stress rotating flows, including confinement, similarity, yielded regions, and transport implications.\n\nExplore research →\n\n\n\nParticle Suspension Dynamics\n\n\nDeveloping particle-scale modeling capabilities for suspension microhydrodynamics, microstructure, and many-body interactions.\n\nExplore research →"
+  },
+  {
+    "objectID": "index.html#what-i-bring-together",
+    "href": "index.html#what-i-bring-together",
+    "title": "Jeyaseelan Krishna Udiyappan",
+    "section": "What I Bring Together",
+    "text": "What I Bring Together\n\n\nExperimentElectrochemistry · Rheometry · Mass transfer\n\n\nPhysicsTransport · Rheology · Electrochemical kinetics\n\n\nComputationPython · MATLAB · COMSOL · ANSYS Fluent\n\n\nEngineeringSolidWorks · Resin printing · CNC · Graphite machining"
+  },
+  {
+    "objectID": "index.html#engineering-research-end-to-end",
+    "href": "index.html#engineering-research-end-to-end",
+    "title": "Jeyaseelan Krishna Udiyappan",
+    "section": "Engineering Research, End to End",
+    "text": "Engineering Research, End to End\nMy work often starts before the experiment exists. I design and fabricate custom electrochemical hardware, establish controlled measurements, develop or adapt the governing physical model, and compare predictions against experimental or finite-element results.\n\nReplace this box with a future composite image: CAD → fabricated cell → experiment → simulation / model\n\nSee selected projects · View conference contributions"
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications & Presentations",
+    "section": "",
+    "text": "Oral presentation\n\nJ. K. Udiyappan, M. V. Majji.\n“Ionic Mass Transport in Slurry Electrodes.”\n248th Meeting of The Electrochemical Society, 2025.\nPresented by J. K. Udiyappan.\n\n\n\nConference abstract\n\nJ. K. Udiyappan, M. V. Majji.\n“Performance Tradeoffs in Redox Flow Batteries with Slurry Electrodes.”\nElectrochemical Society Meeting Abstracts, 248, 2754–2754 (2025).\nPresented by M. V. Majji.\n\n\n\nConference contribution\n\nJ. K. Udiyappan, M. V. Majji.\n“Charge Transport Trade-offs in Colloidal Suspension Electrodes under Flow.”\n96th Annual Meeting of the Society of Rheology, Santa Fe, New Mexico (2025).\nPresented by M. V. Majji."
+  },
+  {
+    "objectID": "publications.html#conference-contributions",
+    "href": "publications.html#conference-contributions",
+    "title": "Publications & Presentations",
+    "section": "",
+    "text": "Oral presentation\n\nJ. K. Udiyappan, M. V. Majji.\n“Ionic Mass Transport in Slurry Electrodes.”\n248th Meeting of The Electrochemical Society, 2025.\nPresented by J. K. Udiyappan.\n\n\n\nConference abstract\n\nJ. K. Udiyappan, M. V. Majji.\n“Performance Tradeoffs in Redox Flow Batteries with Slurry Electrodes.”\nElectrochemical Society Meeting Abstracts, 248, 2754–2754 (2025).\nPresented by M. V. Majji.\n\n\n\nConference contribution\n\nJ. K. Udiyappan, M. V. Majji.\n“Charge Transport Trade-offs in Colloidal Suspension Electrodes under Flow.”\n96th Annual Meeting of the Society of Rheology, Santa Fe, New Mexico (2025).\nPresented by M. V. Majji."
+  },
+  {
+    "objectID": "publications.html#research-communication",
+    "href": "publications.html#research-communication",
+    "title": "Publications & Presentations",
+    "section": "Research Communication",
+    "text": "Research Communication\n3-Minute Thesis (3MT)\n“Designing Slurry Electrodes for Large-Scale Electrochemical Reactors.”"
+  },
+  {
+    "objectID": "publications.html#journal-publications",
+    "href": "publications.html#journal-publications",
+    "title": "Publications & Presentations",
+    "section": "Journal Publications",
+    "text": "Journal Publications\nJournal manuscripts from ongoing PhD research will be added here as they are submitted / published.\nGoogle Scholar\n\nBefore publishing this site, verify that the Google Scholar profile linked above is your own profile. It was populated from the citation link supplied during resume development."
+  }
+]

@@ -1,0 +1,19 @@
+---
+title: "CV / Resume"
+---
+
+## Resume
+
+My current internship-focused resume emphasizes experimental-computational chemical engineering, electrochemical systems, transport phenomena, complex fluids, and multiphysics modeling.
+
+[Download Resume (PDF)](files/Jeyaseelan_Udiyappan_2027_Master_Resume.pdf){.btn .btn-primary}
+
+## Targeted Versions
+
+For applications, I maintain targeted versions emphasizing:
+
+1. **Electrochemical / Battery Modeling**
+2. **Multiphysics / Process Modeling**
+3. **Complex Fluids / Particle Modeling**
+
+The public website should normally expose only the **master resume**. Tailored application versions can be sent directly for specific positions.

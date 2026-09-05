@@ -1,0 +1,81 @@
+---
+title: "Projects"
+---
+
+This page emphasizes **what I have built or implemented**, complementing the scientific questions described on the Research page.
+
+## Custom Electrochemical Flow Cell
+
+I developed an in-house flow-cell platform using a design-to-test workflow:
+
+**SolidWorks CAD → resin additive manufacturing → Nomad CNC / graphite machining → assembly → electrochemical testing**
+
+The platform supports controlled studies of suspension-electrode transport and electrochemical performance.
+
+<div class="project-placeholder">
+ADD PHOTO SET:
+1. SolidWorks rendering
+2. printed / machined components
+3. assembled flow cell
+4. operating experimental setup
+</div>
+
+**Skills demonstrated:** CAD, rapid prototyping, graphite machining, experimental design, electrochemical testing, troubleshooting.
+
+## Taylor–Couette Electrochemical Platform
+
+Designed a customized Taylor–Couette configuration for controlled suspension-flow and transport measurements, with emphasis on separating hydrodynamic and electrochemical effects.
+
+<div class="project-placeholder">
+ADD:
+Taylor–Couette CAD + photograph + one representative mass-transfer result
+</div>
+
+**Skills demonstrated:** rheology, suspension mechanics, experimental hardware design, electrochemistry, transport analysis.
+
+## Yield-Stress Rotating-Flow Modeling
+
+Developed reduced-order numerical models and finite-element simulations for rotating Newtonian, Bingham, and Herschel–Bulkley flows.
+
+Key computational elements include:
+
+- nonlinear boundary-value solvers
+- continuation methods
+- similarity and scaling analysis
+- finite-geometry COMSOL models
+- yielded / unyielded region analysis
+- systematic comparison with prior literature
+
+<div class="project-placeholder">
+ADD:
+one clean Bn–Re regime map or 1D vs COMSOL comparison
+</div>
+
+## Coupled Fluid–Particle Heat Transfer
+
+Built an ANSYS Fluent + Discrete Phase Method model for heat and momentum transfer in a serpentine microtube. The model examined single-phase and dilute particle-laden cases, including two-way momentum and energy coupling.
+
+<div class="project-placeholder">
+ADD:
+serpentine geometry + velocity / temperature or particle-track contour
+</div>
+
+**Topics:** CFD, DPM, laminar/turbulent transport, particle trajectories, heat transfer, mesh comparison.
+
+## Corrosion Under Insulation Modeling
+
+Developed COMSOL finite-element models for oxygen transport and corrosion in thin electrolyte films relevant to corrosion-under-insulation environments.
+
+**Topics:** diffusion, electrochemical transport, multiphysics coupling, thin-film modeling.
+
+## Research Infrastructure
+
+As the first PhD student in a newly established research group, I have also contributed to building the research environment itself:
+
+- equipment procurement and commissioning
+- laboratory safety and operating procedures
+- instrument maintenance and vendor support
+- custom experimental setup development
+- undergraduate research mentoring
+
+This operational experience is an important part of how I approach research engineering: a model or experiment is useful only if it can be implemented, validated, and maintained.

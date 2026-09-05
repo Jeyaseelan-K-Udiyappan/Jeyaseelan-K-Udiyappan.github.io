@@ -1,0 +1,35 @@
+---
+title: "About"
+---
+
+I am a PhD researcher in Chemical Engineering at Ohio University working with **Dr. Madhu V. Majji**.
+
+My technical interests are centered on problems where **transport, material microstructure, and device performance are strongly coupled**. I enjoy working across the traditional boundary between experiment and computation: building experimental systems, developing physical models, and using each to interrogate the other.
+
+## Background
+
+Before graduate school, I studied Chemical and Electrochemical Engineering at the **CSIR–Central Electrochemical Research Institute (CECRI)** in India. My earlier research included aqueous zinc-ion batteries, lithium- and sodium-ion cathodes, supercapacitors, and electrochemical materials characterization.
+
+My PhD work has increasingly shifted toward:
+
+- electrochemical reactor engineering
+- suspension rheology and complex fluids
+- mass and charge transport
+- mechanistic / continuum modeling
+- multiphysics simulation
+- particle-scale suspension modeling
+
+## Research Engineering
+
+In addition to modeling and experiments, I have hands-on experience designing and fabricating custom research hardware using **SolidWorks, resin 3D printing, CNC machining, and graphite milling**.
+
+As the first PhD student in a newly formed research group, I have also helped establish laboratory capabilities through procurement, safety, commissioning, maintenance, vendor coordination, and student mentoring.
+
+## Outreach
+
+I volunteer in middle-school K–12 science-fair activities and value communicating technical ideas clearly across different levels of expertise.
+
+## Contact
+
+**Email:** [jk993924@ohio.edu](mailto:jk993924@ohio.edu)  
+**Location:** Athens, Ohio

@@ -1,0 +1,43 @@
+project:
+  type: website
+
+website:
+  title: "Jeyaseelan Krishna Udiyappan"
+  navbar:
+    background: white
+    foreground: "#202124"
+    left:
+      - href: index.qmd
+        text: Home
+      - href: research.qmd
+        text: Research
+      - href: projects.qmd
+        text: Projects
+      - href: publications.qmd
+        text: Publications
+      - href: about.qmd
+        text: About
+      - href: cv.qmd
+        text: CV
+    right:
+      - icon: envelope
+        href: "mailto:jk993924@ohio.edu"
+      - icon: mortarboard
+        href: "https://scholar.google.com/citations?user=wmFH4TkAAAAJ"
+      # Replace these once your accounts are finalized:
+      - icon: github
+        href: "https://github.com/YOUR_GITHUB_USERNAME"
+      - icon: linkedin
+        href: "https://www.linkedin.com/in/YOUR_LINKEDIN_SLUG/"
+  page-footer:
+    left: "© Jeyaseelan Krishna Udiyappan"
+    right: "Built with Quarto · Hosted on GitHub Pages"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false
+    smooth-scroll: true
+    link-external-newwindow: true
+    anchor-sections: true

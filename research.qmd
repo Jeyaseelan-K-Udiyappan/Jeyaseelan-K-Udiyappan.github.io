@@ -1,0 +1,98 @@
+\
+---
+title: "Research"
+---
+
+My research sits at the intersection of **electrochemical engineering, transport phenomena, complex-fluid mechanics, and physics-based computation**. The projects below are related by a common question: how do local material and transport processes determine device-scale performance?
+
+## Electrochemical Suspension Electrodes
+
+Flowable suspension electrodes combine electrochemical reactions with a dynamically evolving particulate phase. Their performance reflects coupled contributions from:
+
+\[
+\text{rheology} + \text{mass transport} + \text{charge transport} + \text{kinetics}.
+\]
+
+My work uses controlled electrochemical and rheological experiments to isolate these effects and develop relationships that can ultimately inform reactor design.
+
+### Current themes
+
+- Shear-dependent mass transfer in suspensions
+- Fumed-silica and carbon-black model systems
+- Couette, rotating-disk, and flow-cell measurements
+- Herschel–Bulkley rheology and yield-stress behavior
+- Porous-electrode and continuum reactor modeling
+- Flow-performance and pumping-performance tradeoffs
+
+<div class="project-placeholder">
+Add an ECS figure here:
+Couette / flow-cell schematic + representative transport plot
+</div>
+
+### Research objective
+
+A central goal is to move from local measurements such as
+
+\[
+k_m(\dot{\gamma}), \qquad \tau_y,\qquad K,\qquad n
+\]
+
+toward spatially resolved predictions of electrochemical reactor behavior.
+
+## Stress-Limited Hydrodynamics
+
+Classical rotating-disk transport relies on well-defined Newtonian hydrodynamics. Yield-stress fluids introduce an additional difficulty: part of the fluid may remain unyielded, so the active flow domain can itself become part of the solution.
+
+My modeling work investigates:
+
+- von Kármán and two-disk rotating-flow frameworks
+- Bingham and Herschel–Bulkley constitutive behavior
+- nonlinear boundary-value problems and continuation
+- finite confinement and breakdown of global similarity
+- yielded / unyielded regions
+- comparison between reduced models and COMSOL
+- implications for mass-transfer boundary layers
+
+<div class="research-flow">
+<strong>Current physical picture:</strong>
+In confined yield-stress flow, the yielded-layer thickness can emerge as a local hydrodynamic length scale rather than the full geometric gap.
+</div>
+
+<div class="project-placeholder">
+Add a Society of Rheology figure here:
+rotating disk + yield surface + COMSOL / 1D profile comparison
+</div>
+
+## Particle Suspension Dynamics
+
+I am beginning a separate computational research direction involving **Stokesian Dynamics and particle-suspension modeling** under the guidance of Dr. Madhu V. Majji.
+
+The immediate purpose is to build depth in particle-scale suspension mechanics rather than force the method into the electrochemical suspension-electrode framework.
+
+Topics of interest include:
+
+- low-Reynolds-number particle hydrodynamics
+- many-body hydrodynamic interactions
+- Brownian and non-Brownian suspension behavior
+- particle microstructure under flow
+- pair and structural statistics
+- suspension stress and rheological response
+- links between particle-scale dynamics and continuum descriptions
+
+As this project develops, validated results and public benchmark examples will be added here.
+
+## Longer-Term Direction
+
+The long-term technical theme connecting my work is **multiscale physical modeling with experimental validation**:
+
+\[
+\text{particle scale}
+\rightarrow
+\text{constitutive behavior}
+\rightarrow
+\text{continuum transport}
+\rightarrow
+\text{device performance}.
+\]
+
+Data-driven and surrogate methods may later be incorporated where they improve parameter inference, computational speed, uncertainty quantification, or experimental design.
